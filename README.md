@@ -45,6 +45,10 @@ behaviour tree navigator, velocity smoother) used to run the robot in simulation
 
 C++ · Eigen · ROS 2 · Nav2 · Python (launch files)
 
+## License
+
+No license is provided. This is a collaborative team project, so please contact me before reusing the code.
+
 ## Author
 
 **Yogeswaran Amsavalli** · [GitHub](https://github.com/YogiOnCode)
